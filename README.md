@@ -1,3 +1,3 @@
 # Angular8-Crud
 
-![angular](angular8.png)
+![angular](angular8s.png)
